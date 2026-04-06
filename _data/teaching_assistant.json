@@ -1,20 +1,20 @@
 [
-{
-    "course" : "Geometry and Topology of Surfaces",
-    "period" : "Summer term 2023",
-    "institution" : "LMU Munich",
-    "language" : "in German"
-},
-{
-    "course" : "Formal Languages and Complexity theory",
-    "period" : "Summer term 2022",
-    "institution" : "LMU Munich",
-    "language" : "in German"
-},
-{
-    "course" : "Linear Algebra for Computer Scientists and Statisticians",
-    "period" : "Winter term 2020/21",
-    "institution" : "LMU Munich",
-    "language" : "in German"
-}
+    {
+        "course" : "Geometry and Topology of Surfaces",
+        "period" : "Summer term 2023",
+        "institution" : "LMU Munich",
+        "language" : "in German"
+    },
+    {
+        "course" : "Formal Languages and Complexity theory",
+        "period" : "Summer term 2022",
+        "institution" : "LMU Munich",
+        "language" : "in German"
+    },
+    {
+        "course" : "Linear Algebra for Computer Scientists and Statisticians",
+        "period" : "Winter term 2020/21",
+        "institution" : "LMU Munich",
+        "language" : "in German"
+    }
 ]
