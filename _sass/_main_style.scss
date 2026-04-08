@@ -1,3 +1,48 @@
 .home-intro {
-    
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.home-photo {
+  flex: 0 0 180px;
+}
+
+.home-photo img {
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+.home-text {
+  flex: 1;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #222;
+}
+
+.home-text p {
+  margin-top: 0;
+}
+
+
+@media (max-width: 700px) {
+  .home-intro {
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+  }
+
+  .home-photo {
+    flex: none;
+  }
+
+  .home-photo img {
+    max-width: 220px;
+  }
 }
