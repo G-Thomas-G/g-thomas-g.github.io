@@ -1,6 +1,8 @@
-{
-    "description" : "" ,
-    "date" : "",
-    "location" : ""
-}
-
+[
+    {
+        "name" : "Algebraic aspects of Metric and Integral Geometry",
+        "period" : "March 2026",
+        "location" : "Bernoulli Center, Lausanne",
+        "details" : "School about o-minimal geometry, probabilistic intersection theory and integral geometry with subsequent conference."
+    }
+]

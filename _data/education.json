@@ -1,13 +1,9 @@
 [
     {
-        "degree" : "",
-        "institution" : "",
-        "time" : ""
-    },
-    {
         "degree" : "M.Sc. in Mathematics",
         "institution" : "LMU Munich",
-        "time" : "2022-2025"
+        "time" : "2022-2025",
+        "supervisor": "Prof. Fabien Morel"
     },
     {
         "degree" : "B.Sc. in Mathematics with minor in computer science",

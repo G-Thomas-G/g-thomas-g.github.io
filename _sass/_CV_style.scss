@@ -1,11 +1,56 @@
-.ta-list {
-
+.cv-page {
+  /*max-width: 860px;*/
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
 }
 
-.ta-course {
-
+.cv-section {
+  margin-bottom: 2rem;
 }
 
-.ta-details {
+.cv-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--accent);
+  color: var(--accent)
+}
 
+.cv-list {
+  list-style: none;
+  padding: 0;
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.cv-item {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.cv-item:last-child {
+  border-bottom: none;
+}
+
+.cv-main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.cv-institution {
+  color: #444;
+}
+
+.cv-meta {
+  margin-top: 0.15rem;
+  font-size: 0.95rem;
+  color: var(--description);
+}
+
+.cv-details {
+  margin-top: 0.25rem;
+  color: #333;
+  line-height: 1.5;
 }

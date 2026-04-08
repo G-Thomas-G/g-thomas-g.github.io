@@ -10,5 +10,6 @@ title: Home
     My main object of study is the neuromanifold of polynomial neural networks and how understanding it better can explain phenomena in machine learning.
     </p>
 
+    <p> </p>
     
 </div>

@@ -1,20 +1,34 @@
 [
     {
+        "course" : "Applied Mathematics and Industrial Economics",
+        "period" : "Winter term 2026",
+        "detail-period" : "January - June",
+        "language" : "in English",
+        "institution" : "KTH",
+        "tag" : "Supervision of Bachelor theses"
+    },
+    {
         "course" : "Geometry and Topology of Surfaces",
         "period" : "Summer term 2023",
+        "detail-period" : "April - July",
         "institution" : "LMU Munich",
-        "language" : "in German"
+        "language" : "in German",
+        "tag" : "TA"
     },
     {
         "course" : "Formal Languages and Complexity theory",
         "period" : "Summer term 2022",
+        "detail-period" : "April - July",
         "institution" : "LMU Munich",
-        "language" : "in German"
+        "language" : "in German",
+        "tag" : "TA"
     },
     {
         "course" : "Linear Algebra for Computer Scientists and Statisticians",
         "period" : "Winter term 2020/21",
+        "detail-period" : "October - February",
         "institution" : "LMU Munich",
-        "language" : "in German"
+        "language" : "in German",
+        "tag" : "TA"
     }
 ]
