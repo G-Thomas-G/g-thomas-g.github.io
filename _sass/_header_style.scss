@@ -32,3 +32,20 @@
     border-bottom: 1px solid var(--border-light);
     /*box-shadow: 0 1px 3px rgba(0,0,0,0.04);*/
 }
+
+@media (max-width: 600px) {
+  .site-nav {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.8rem 0;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    position: relative;
+    padding: 0;
+    top: 0;
+    right: 0;
+  }
+
+}
