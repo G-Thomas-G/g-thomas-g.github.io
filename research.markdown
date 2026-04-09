@@ -2,6 +2,7 @@
 layout: default
 title: Research
 published: true
+permalink: /research/
 ---
 
 {% comment %}
