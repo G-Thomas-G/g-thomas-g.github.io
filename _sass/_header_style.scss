@@ -1,0 +1,33 @@
+.site-nav {
+  display: flex;
+  justify-content: center;
+  gap: 1.8rem;
+  padding: 1rem 0;
+}
+
+.site-nav a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.25rem 0;
+  transition: color 0.2s ease, border-color 0.2s ease;
+  border-bottom: 2px solid transparent;
+}
+
+.site-nav a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.nav-container {
+  max-width: 860px;       /* match your CV page width */
+  margin: 0 auto;
+}
+
+.site-header {
+    display: flex;
+    justify-content: center;
+    background: val(--header-background);
+    border-bottom: 1px solid var(--border-light);
+    /*box-shadow: 0 1px 3px rgba(0,0,0,0.04);*/
+}

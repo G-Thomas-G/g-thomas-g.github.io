@@ -8,13 +8,15 @@
   --text-main: #222;
   --text-muted: #666;
   --border-light: #e6e6e6;
-  --description: var(--text-muted)
+  --description: var(--text-muted);
+  --header-background: #fff;
 }
 
 @import "footer_style";
 @import "header_style";
 @import "main_style";
 @import "CV_style";
+@import "research_style";
 
 
 .content {

@@ -1,0 +1,57 @@
+.publications-section {
+  margin-top: 2.5rem;
+}
+
+.publications-section h2 {
+  /*font-size: 1.5rem;*/
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--accent);
+  color: var(--accent);
+}
+
+.pub-list {
+  list-style: decimal;
+  padding-left: 1.4rem;
+  margin: 0;
+}
+
+.pub-item {
+  padding: 0.6rem 0;
+  margin-bottom: 0.25rem;
+  line-height: 1.45;
+}
+
+.pub-title {
+  margin-bottom: 0.15rem;
+}
+
+.pub-title strong {
+  color: var(--text-main);
+  font-weight: 600;
+}
+
+.pub-coauthors {
+  color: var(--text-muted);
+  font-size: 0.97rem;
+}
+
+.pub-meta {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  margin-top: 0.1rem;
+}
+
+.pub-link {
+  margin-top: 0.25rem;
+}
+
+.pub-link a {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+
+.pub-link a:hover {
+  text-decoration: underline;
+}
