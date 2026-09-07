@@ -1,5 +1,19 @@
 [
     {
+        "title": "The Boundary of Neuromanifolds of shallow MLPs",
+        "event": "GeUmetric Deep Learning Workshop 2026",
+        "date" : "August 2026",
+        "location" : "Umeå University, Sweden",
+        "details" : "20 minute high-level presentation of current research" 
+    },
+    {
+        "title": "The Boundary of Neuromanifolds",
+        "event": "WASP NEST meeting",
+        "date" : "May 2026",
+        "location" : "KTH, Stockholm",
+        "details" : "20 minute overview to mechanical engineering and math audience" 
+    },
+    {
         "title": "The Boundary of Neuromanifolds",
         "event": "",
         "date" : "March 2026",

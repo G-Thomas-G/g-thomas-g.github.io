@@ -1,8 +1,20 @@
 [
     {
+        "name" : "GeUmetric Deep Learning Workshop 2026",
+        "period" : "August 2026",
+        "location" : "Umeå University, Umeå, Sweden",
+        "details" : "Workshop on geometric methods in deep learning; also including perspectives of applications to physics, chemistry and biology."
+    },
+    {
+        "name" : "Metric Algebraic Geometry",
+        "period" : "June 2026",
+        "location" : "Institut Mittag-Leffler, Djursholm, Sweden",
+        "details" : "Workshop with many aspects to metric, integral and probabilistic algebraic geometry, sometimes with motivation from ML or data science."
+    },
+    {
         "name" : "Algebraic aspects of Metric and Integral Geometry",
         "period" : "March 2026",
-        "location" : "Bernoulli Center, Lausanne",
+        "location" : "Bernoulli Center, Lausanne, Switzerland",
         "details" : "School about o-minimal geometry, probabilistic intersection theory and integral geometry with subsequent conference."
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "course" : "Discrete Mathematics (for Computer Scientists)",
+        "period" : "Fall term 2026",
+        "detail-period" : "September - December",
+        "language" : "in English",
+        "institution" : "KTH",
+        "tag" : "TA"
+    },
+    {
         "course" : "Applied Mathematics and Industrial Economics",
         "period" : "Winter term 2026",
         "detail-period" : "January - June",
