@@ -84,7 +84,7 @@ permalink: /cv/
 </section>
 
 <section class="cv-section">
-  <h2>Conference and school attendance</h2>
+  <h2>Conferences, schools & workshops</h2>
   <ul class="cv-list">
     {% for item in site.data.activities %}
       <li class="cv-item">

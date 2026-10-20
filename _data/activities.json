@@ -1,19 +1,25 @@
 [
     {
+        "name" : "Wallenberg Advanced Scientific Forum, Autumn 2026",
+        "period" : "September 29 -- October 2, 2026",
+        "location" : "Rånäs Slott, Sweden",
+        "details" : "Workshop exploring symmetries in neural networks from a broad perspective.  Strong focus on collaborative problem-solving across career stages and beyond the own area of expertise."
+    },
+    {
         "name" : "GeUmetric Deep Learning Workshop 2026",
-        "period" : "August 2026",
+        "period" : "August 17 - 19, 2026",
         "location" : "Umeå University, Umeå, Sweden",
         "details" : "Workshop on geometric methods in deep learning; also including perspectives of applications to physics, chemistry and biology."
     },
     {
         "name" : "Metric Algebraic Geometry",
-        "period" : "June 2026",
+        "period" : "June 22 - 26, 2026",
         "location" : "Institut Mittag-Leffler, Djursholm, Sweden",
         "details" : "Workshop with many aspects to metric, integral and probabilistic algebraic geometry, sometimes with motivation from ML or data science. You can find some recordings on IML's webpage."
     },
     {
         "name" : "Algebraic aspects of Metric and Integral Geometry",
-        "period" : "March 2026",
+        "period" : "March 9 - 20, 2026",
         "location" : "Bernoulli Center, Lausanne, Switzerland",
         "details" : "School about o-minimal geometry, probabilistic intersection theory and integral geometry with subsequent conference."
     }
